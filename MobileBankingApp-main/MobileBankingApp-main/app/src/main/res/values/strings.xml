@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">InnovativeBanking</string>
+    <string name="welcome">Welcome!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registerWelcomeText">Complete this form to create your new account</string>
+    <string name="firstNameInputHint">Enter your first name</string>
+    <string name="lastNameInputHint">Enter your last name</string>
+    <string name="enter_a_password">Enter a password</string>
+    <string name="register_me">Register me</string>
+    <string name="log_in">Log In</string>
+    <string name="select_your_birthday">Select your birthday</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="add_money">Add money</string>
+    <string name="minimum_amount"><font size="10">Minimum amount is 50 RON</font></string>
+    <string name="add_money_heading">Enter the amount of money you wish to add to your account</string>
+    <string name="curr_balance">Current balance: 300RON</string>
+    <string name="add_moneyBtn">Add money</string>
+    <string name="add_newCard_heading">Select a saved card or chose to add a new card</string>
+    <string name="add_card">Add card</string>
+    <string name="complete_with_your_card_details">Complete with your card details</string>
+    <string name="card_number_example">ex: 1234 4534 2342 1234</string>
+    <string name="card_personName">FIRSTNAME LASTNAME</string>
+    <string name="cvv_ex">CVV/CVV2</string>
+    <string name="expiration_date">Expiration Date</string>
+    <string name="save_card_hint_checkbox">Save card</string>
+    <string name="creditCard_personName">Eftene Robert</string>
+    <string name="creditcard_number">1234 2345 2485 2909</string>
+    <string name="creditcard_item_checkbox">Chose this</string>
+    <string name="change_cardDetails_btn"></string>
+    <string name="investBtnText">Invest</string>
+    <string name="invest_heading">Discover the most popular stocks</string>
+    <string name="enter_your_email_login">Enter your email</string>
+    <string name="enter_your_password_login">Enter your password</string>
+    <string name="complete_for_sending_money_header">Complete for sending money</string>
+    <string name="modify_your_card_details">Modify your card details</string>
+    <string name="update_card">Update card</string>
+    <string name="account_details">Account Details</string>
+    <string name="update_your_details_below">Update your details below</string>
+    <string name="save_transactions">Save transactions</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="send_money_btnText">Send Money</string>
+    <string name="payments_btn_txt">Payments</string>
+    <string name="info_btn_txt">Settings</string>
+    <string name="here_are_your_statistics">Here are your statistics</string>
+    <string name="our_location">Our location</string>
+    <string name="remember_me">Remember me</string>
+    <string name="register">Register</string>
+    <string name="hello_robert">Hello Robert</string>
+    <string name="vaults">VAULTS</string>
+    <string name="get_your_economies_in_a_secure_vault">Get your economies in a secure vault</string>
+    <string name="create_new_vault">CREATE NEW VAULT</string>
+    <string name="vault_name">VACANTA ITALIA</string>
+    <string name="add_money_vault">ADD</string>
+    <string name="withdraw_money_vault">WITHDRAW</string>
+    <string name="complete_to_create_your_new_vault">Complete to create your new vault</string>
+    <string name="vault_txt_hint">Enter a name for vault</string>
+    <string name="vault_target_hint">Enter a target for your vault</string>
+    <string name="create_vault">Create vault</string>
+    <string name="update_vault">Update vault</string>
+    <string name="vault_description">Vault description</string>
+    <string name="update_your_vault_details">Update your vault details</string>
+    <string-array name="expiry_years_array">
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2028</item>
+    </string-array>
+    <string-array name="expiry_months_array">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+</resources>
